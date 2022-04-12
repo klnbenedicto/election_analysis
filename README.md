@@ -24,5 +24,22 @@ The analysis of the election show that:
     - Diana DeGette, who received 73.8% of the vote and 272,892 votes. 
 
 ## Challenge Overview
+In addition to the election results analysis from the module, the election commission has requested the following:
+1. The voter turnout for each county
+2. The percentage of votes from each county out of the total count
+3. The county with the highest turnout
 
 # Challenge Summary
+The analysis of the election results show that:
+- The counties had the following voter turnout:
+  - Jefferson: 38,855
+  - Denver: 306,055
+  - Arapahoe: 24,801
+- The percentage of county votes out of total votes cast were:
+  - Jefferson: 10.5%
+  - Denver: 82.8%
+  - Arapahoe: 6.7%
+- The county with the highest turnout was:
+  - Denver which had 82.8% of the total count of votes and 306,055 votes.
+
+PyPoll_Challenge_starter_code.py is the Python file that was created to run the analysis and includes both county turnout analysis and the election result analysis. In the analysis folder, election_analysis.txt summarizes the findings for both analyses.
