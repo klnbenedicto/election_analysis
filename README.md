@@ -29,8 +29,9 @@ In addition to the election results analysis from the module, the election commi
 2. The percentage of votes from each county out of the total count
 3. The county with the highest turnout
 
-# Challenge Summary
+## Challenge Results
 The analysis of the election results show that:
+- There were a total of 369,711 votes cast in the election.
 - The counties had the following voter turnout:
   - Jefferson: 38,855
   - Denver: 306,055
@@ -42,4 +43,7 @@ The analysis of the election results show that:
 - The county with the highest turnout was:
   - Denver which had 82.8% of the total count of votes and 306,055 votes.
 
+## Election Audit Summary
 PyPoll_Challenge_starter_code.py is the Python file that was created to run the analysis and includes both county turnout analysis and the election result analysis. In the analysis folder, election_analysis.txt summarizes the findings for both analyses.
+
+This script can be used to audit the results of any election. The same candidate election results analysis can be to determine the popular vote for the President, but to declare the winner, we would look at the electoral vote for the candidates and whomever has the highest electoral vote count would become the next President of the United States.
